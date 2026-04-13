@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background-color: thistle;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px 12px;
+}
